@@ -1,8 +1,8 @@
-package in.bushansirgur.springboot.crudapi.dao;
+package in.deepakagrawal.springboot.crudapi.dao;
 
 import java.util.List;
 
-import in.bushansirgur.springboot.crudapi.model.Employee;
+import in.deepakagrawal.springboot.crudapi.model.Employee;
 
 public interface EmployeeDAO {
 	

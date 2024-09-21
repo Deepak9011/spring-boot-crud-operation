@@ -1,4 +1,4 @@
-package in.bushansirgur.springboot.crudapi;
+package in.deepakagrawal.springboot.crudapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

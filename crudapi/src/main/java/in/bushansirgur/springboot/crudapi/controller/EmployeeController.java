@@ -1,4 +1,4 @@
-package in.bushansirgur.springboot.crudapi.controller;
+package in.deepakagrawal.springboot.crudapi.controller;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.bushansirgur.springboot.crudapi.model.Employee;
-import in.bushansirgur.springboot.crudapi.service.EmployeeService;
+import in.deepakagrawal.springboot.crudapi.model.Employee;
+import in.deepakagrawal.springboot.crudapi.service.EmployeeService;
 
 @RestController
 @RequestMapping("/api")

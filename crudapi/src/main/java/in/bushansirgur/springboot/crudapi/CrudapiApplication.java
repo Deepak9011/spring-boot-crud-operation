@@ -1,4 +1,4 @@
-package in.bushansirgur.springboot.crudapi;
+package in.deepakagrawal.springboot.crudapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

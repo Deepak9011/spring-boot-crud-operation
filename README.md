@@ -17,7 +17,7 @@ A simple Spring boot application that demonstrates the usage of RESTful API usin
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/scbushan05/spring-boot-hibernate-mysql-rest-api.git
+git clone https://github.com/Deepak9011/spring-boot-crud-operation.git
 ```
 
 **2. Create MySQL database**
@@ -76,22 +76,4 @@ The app defines following CRUD APIs.
     
     DELETE /api/employee/{id}
 
-You can test them using postman or any other rest client.
-
-## Learn more
-
-You can find the video tutorial for this application on my youtube channel -
-
-<https://www.youtube.com/playlist?list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl/>
-
-You can find the tutorial for this application on my blog -
-
-<http://bushansirgur.in/>
-
-You can subscribe to our Youtube channel -
-
-<https://www.youtube.com/b2tech/>
-
-You can join our free udemy courses also -
-
-<https://udemy.com/user/bushansirgur/>
+You can test them using postman, Thunder Client or any other rest client.

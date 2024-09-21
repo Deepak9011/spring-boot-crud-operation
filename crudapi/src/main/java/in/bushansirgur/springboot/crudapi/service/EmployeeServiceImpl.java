@@ -1,4 +1,4 @@
-package in.bushansirgur.springboot.crudapi.service;
+package in.deepakagrawal.springboot.crudapi.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import in.bushansirgur.springboot.crudapi.dao.EmployeeDAO;
-import in.bushansirgur.springboot.crudapi.model.Employee;
+import in.deepakagrawal.springboot.crudapi.dao.EmployeeDAO;
+import in.deepakagrawal.springboot.crudapi.model.Employee;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {

@@ -1,4 +1,4 @@
-package in.bushansirgur.springboot.crudapi.model;
+package in.deepakagrawal.springboot.crudapi.model;
 
 import java.sql.Date;
 

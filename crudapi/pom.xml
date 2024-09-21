@@ -8,7 +8,7 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.bushansirgur.springboot</groupId>
+	<groupId>in.deepakagrawal.springboot</groupId>
 	<artifactId>crudapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>crudapi</name>
@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<start-class>in.bushansirgur.springboot.crudapi.CrudapiApplication</start-class>
+		<start-class>in.deepakagrawal.springboot.crudapi.CrudapiApplication</start-class>
 	</properties>
 
 	<dependencies>

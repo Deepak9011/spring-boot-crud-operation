@@ -1,4 +1,4 @@
-package in.bushansirgur.springboot.crudapi.dao;
+package in.deepakagrawal.springboot.crudapi.dao;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 
 
 
-import in.bushansirgur.springboot.crudapi.model.Employee;
+import in.deepakagrawal.springboot.crudapi.model.Employee;
 
 @Repository
 public class EmployeeDAOImpl implements EmployeeDAO {
